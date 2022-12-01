@@ -4,9 +4,9 @@ sonarqubeScanner({
   serverUrl: 'http://13.233.32.133:9000/',
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
-	    'sonar.projectName': 'Node JS Application - Sample',
-	    'sonar.projectKey':'NodeJsMithunTechnologies',
-	    'sonar.login': 'squ_7c83931f2480d6d288e490e2d27ff34f7ef1cbff',
+	    'sonar.projectName': 'network',
+	    'sonar.projectKey':'network',
+	    'sonar.login': 'sqp_f741d02efb6d27d1a32f33fba69855545cdfc646',
 	    //'sonar.login': 'sqa_9d244c47d4ad8b7b4c98aaf53da6079f730e9774',
 	    //'sonar.login': 'admin',
 	    //'sonar.password': 'Qwerty',
